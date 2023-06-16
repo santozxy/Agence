@@ -2,6 +2,6 @@
 
 ###Projeto de aprendizado.📘
 
-###Tecnologias usadas:
-  *HTML5
-  *CSS
+### Tecnologias usadas:
+ *HTML5
+ *CSS
